@@ -6,9 +6,9 @@ int main() {
     cout << "Введіть відстань та час: ";
     cin >> s >> t;
 
-    v = __/ __; 
+    v = s/ t; 
 
-    cout << "Швидкість v = " << v << endl;
+    cout << "Швидкість v =s/t " << v << endl;
     return 0;
 }
 
