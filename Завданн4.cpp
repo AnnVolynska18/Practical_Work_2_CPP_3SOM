@@ -8,7 +8,7 @@ int main() {
 
     y = (x^2 + 3x + 5) / (2x + 1)
 
-    cout << "y = " << y << endl;
+    cout << "y = (x^2 + 3x + 5) / (2x + 1)" << y << endl;
     return 0;
 }
 
